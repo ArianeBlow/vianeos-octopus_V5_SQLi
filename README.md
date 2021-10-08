@@ -1,14 +1,16 @@
 # vianeos-octopus_V5_SQLi
-Vianeos OctoPUS 5 - 'login_user' SQLi
+
+
 
 
 # Exploit Title: Vianeos OctoPUS 5 - 'login_user' SQLi
 # Date: 01/07/2021
-# Exploit Author: Audencia Business SCHOOL
 # Vendor Homepage: http://www.vianeos.com/en/home-vianeos/
 # Software Link: http://www.vianeos.com/en/octopus/
 # Version: > V5
 # Tested on: Fedora / Apache2 / MariaDB
+
+
 
 
 Octopus V5 SQLi
